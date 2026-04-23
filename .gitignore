@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+venv/
+.venv/
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+run-result*.json
+report*.md
+trial_browser_turnstile_timeout.png
+turnstile_error.png
