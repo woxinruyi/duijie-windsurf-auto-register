@@ -29,7 +29,31 @@
 - `windsurf_trial_browser.py`
   浏览器自动化版 Trial 流程。会自己打开浏览器、填账号密码、点击页面元素并抓取 Stripe Checkout URL。
 ## 依赖
+<div align="center">
+注册一键对接
+【aiyiwei.vip】开发者和AI爱好者调用中转：100ms响应，1元开票，30+工具零改造
+<p>claude code使用特价 Claude Code分组。 gpt使用codex专属分组和纯az分组。gemini使用gemini-cli分组 新增claude code4.7</p>
+<p>限时特价分组，1毛到2毛每百万token gpt-5-nano-2025-08-07 专属养虾</p>
+<p>看过来 👉https://aiyiwei.vip/register?aff=9RDC（尾部带个人邀请码，介意可删除尾部字母）</p>
+<p>-官网 1-2折，534个全球模型统一管控。</p>
+<p>-0.5元到0.7元人民币每刀</p>
+<p>-最低1元起充，按需使用无现金流压力</p>
+<p>-💼 财务合规无忧</p>
+<p>-每笔充值均可开电子发票，最低 1元 起开</p>
+<p>-注册就送 $0.2，每天签到领 $0.2-$1</p>
+<p>-告别代充灰色渠道，审计直接过	</p>
+<p>-🛠️ 30+企业工具一键接入，现有系统零改造</p>
+<p>-Claude Code/Cline/Cursor企业部署 → 文档已备</p>
+<p>常用龙虾文档:https://migxy8em66.apifox.cn/doc-8196816</p>
+<p>-Claude Code → https://migxy8em66.apifox.cn/doc-8196820</p>
+<p>-Cursor → https://migxy8em66.apifox.cn/doc-8196829</p>
+<p>-Cline → https://migxy8em66.apifox.cn/doc-8196827</p>
+<p>-等30多个代码和开发工具适配文档已备齐</p>
+<p>-一个接口自动适配，标准OpenAI格式，现有代码改个base_url直接跑，1小时完成接入</p>
+<p>-5分钟配通工具，满意再规模化——让AI基础设施像水电一样即开即用</p>
+<p>-推广有邀请奖励：推广奖励支持支付宝提现</p>
 
+</div>
 基础依赖：
 
 - Python 3.10+
